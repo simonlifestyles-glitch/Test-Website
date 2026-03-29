@@ -26,3 +26,4 @@
 ## 📂 專案結構
 🔰 [範本1](https://simonlifestyles-glitch.github.io/Test-Website/Simple-Template/index.html)
 
+🔰 [範本2](https://simonlifestyles-glitch.github.io/Test-Website/Simple-Template/Website-design-company.html)
