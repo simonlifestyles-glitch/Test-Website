@@ -865,4 +865,12 @@
         }
       });
     }, { threshold: 0.12 });
-   
+    reveals.forEach(el => observer.observe(el));
+
+    // Hero immediate reveal (visible on load without scrolling)
+    document.querySelectorAll('#hero .reveal').forEach(el => {
+      setTimeout(() => el.classList.add('visible'), 100);
+    });
+  </script>
+</body>
+</html>
